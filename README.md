@@ -1,5 +1,8 @@
 # YTClone
 
+![Uploading image.png…]()
+
+
 Youtube home page clone made using HTML and CSS with nav bar, thumbnails and icons included
 
 Instructions:
