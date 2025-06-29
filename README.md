@@ -1,4 +1,4 @@
-#YouTube Homepage Clone – YTClone
+# YouTube Homepage Clone – YTClone
 
 ![Uploading image.png…](image.png)
 
